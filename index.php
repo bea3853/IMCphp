@@ -1,8 +1,8 @@
 
 
-<div>
-  </b>
-<p> O seu IMC é: </p>
+
+
+
 <?php
 
 $altura = 1.80;
@@ -25,6 +25,4 @@ echo $faixa;
 
 
 ?>
-</b>
-</p>
-</div>
+
