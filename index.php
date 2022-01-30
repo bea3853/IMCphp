@@ -21,6 +21,7 @@ $faixa  = "Sobrepeso";
 $faixa  = "Obesidade";
 }
 
+echo "Seu IMC é: "
 echo $faixa; 
 
 
