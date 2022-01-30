@@ -1,6 +1,7 @@
 
 
 <div>
+  </b>
 <p> O seu IMC é: </p>
 <?php
 
